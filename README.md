@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ridhosubekti29@gmail.com**
 
-- ⚡ Fun fact **Ganteng banget**
+- ⚡ Fun fact **Bergelut dengan waktu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
