@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ridhosubekti29@gmail.com**
 
-- ⚡ Fun fact **Bergelut dengan waktu**
+- ⚡ Fun fact ** Ga tau pengen beli trek**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
