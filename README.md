@@ -10,13 +10,13 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **-**
+ 🔭 I’m currently working on **Enterprice Resource Planing**
  
- 🌱 I’m currently learning **React, NodeJs, TypeScript**
+ 🌱 I’m currently learning **Next Js**
 
 💬 Ask me about **Node.js, React... or anything [here](https://github.com/Ridhoilhamm)**
 
-⚡ Fun fact **Not Found**
+
 
  </div>
  
